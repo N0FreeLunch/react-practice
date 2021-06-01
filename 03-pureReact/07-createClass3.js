@@ -1,5 +1,5 @@
 // no implement
-// createClass is not support react vesion 15, 16, 17, ...
+// createClass is not support react vesion 16, 17, ...
 
 const IngredientList = React.createClass({
   displayName : "IngredientsList",

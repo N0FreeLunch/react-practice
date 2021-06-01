@@ -11,7 +11,3 @@ class IngredientsList extends React.Component {
     )
   }
 }
-
-
-const component = new IngredientsList();
-component.render()
